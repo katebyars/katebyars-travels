@@ -8,8 +8,12 @@
 
 _An application which tracks locations of Instagram photos on a map in a webpage, using Google API and Instagram API._
 
-_._
-![The Home Page](images/2.png)
+_Research for September 28._
+![TimeLine of Kate's Day](images/4.png)
+![Research](images/1.png)
+![Research](images/2.png)
+![Research](images/3a.png)
+![Research](images/3.png)
 
 
 ## Setup/Installation Requirements
