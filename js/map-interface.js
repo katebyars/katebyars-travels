@@ -5,7 +5,7 @@ $(document).ready(function() {
     e.preventDefault();
     let issue = $('#issue').val();
     var apiKey = require('./../.env').apiKey;
-    let doctor = new Doctor();
+    let map = new Map();
     doctor.doctorsByIssue(issue, apiKey);
   $("input").val("");
   $("#searchResult").empty();

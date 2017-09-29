@@ -4,39 +4,35 @@
 
 #### Author : Kate Byars
 
-## Description
+## Description: How Kate Spent the Day
 
-_An application which tracks locations of Instagram photos on a map in a webpage, using Google API and Instagram API._
-
-_Research for September 28._
 ![TimeLine of Kate's Day](images/4.png)
+
+_I would like to build an app that queries my instagram account and puts locations into Google API so I can have a personalized map on my own site:_
 ![Research](images/1.png)
-![Research](images/2.png)
+_How to overlay an image on a google map query._
 ![Research](images/3a.png)
 ![Research](images/3.png)
+_Get an API Key_
+![Research](images/6.png)
 
 
-## Setup/Installation Requirements
-Bower, NPM and dependencies as listed in the files uploaded in this application.
+## Initial Project Setup/Installation Requirements
+Bower, NPM and dependencies as listed in the files uploaded in this application. I will template off of the Doctor API site I built.
 
-* Clone this project from git hub
-* install NPM
-* initialize npm and bower
-
-## Specifications
+## Initial Specifications (one spec may take me a while to research)
 
 | Behavior      | Example Input      | Example Output       |
 | ------------- | ------------- | ------------- |
-| User can view a map which has a pin for all the places an instagram photo was taken by Kate  | User goes to web page  |  There are the pins!  |
+| User can view a map which has a pin for all the places an Instagram photo was taken by Kate  | User goes to web page  |  There are the pins!  |
 
 
 ## Inquiries ##
 _katebyars5@gmail.com
 
 ## Known Bugs
-_This project is in progres._
-_There is code written to handle server side errors but the return message is not working._
-_Site does not return all offices that a doctor works at; only the first office._
+_This project is in progress._
+
 
 ## Technologies Used
 
