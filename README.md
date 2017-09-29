@@ -50,7 +50,7 @@ _5_
 _6_
 ![JSON + Instagram](https://code.tutsplus.com/tutorials/introduction-to-the-instagram-api--cms-23608)
 
-## Initial Specifications (one spec may take me a while to research)
+## Initial Specifications (one spec may take me a while to research - will add more later)
 
 | Behavior      | Example Input      | Example Output       |
 | ------------- | ------------- | ------------- |
