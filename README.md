@@ -5,14 +5,17 @@
 #### Author : Kate Byars
 
 ## Description: How Kate Spent the Day
-
+_Timeline._
 ![TimeLine of Kate's Day](images/4.png)
 
 _I would like to build an app that queries my instagram account and puts locations into Google API so I can have a personalized map on my own site:_
 ![Research](images/1.png)
+
 _How to overlay an image on a google map query._
 ![Research](images/3a.png)
+
 ![Research](images/3.png)
+
 _Get an API Key_
 ![Research](images/6.png)
 
