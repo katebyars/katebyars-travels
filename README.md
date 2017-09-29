@@ -5,8 +5,15 @@
 #### Author : Kate Byars
 
 ## Description: How Kate Spent the Day
+
 _Timeline._
 ![TimeLine of Kate's Day](images/4.png)
+
+_Some sketching of new site._
+![TimeLine of Kate's Day](images/7.png)
+
+_Short listing the first to-do's._
+![TimeLine of Kate's Day](images/8.png)
 
 _I would like to build an app that queries my instagram account and puts locations into Google API so I can have a personalized map on my own site:_
 ![Research](images/1.png)
