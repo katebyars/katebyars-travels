@@ -11,10 +11,10 @@ __
 ![TimeLine of Kate's Day](images/4.png)
 
 _Some sketching of new site._
-![TimeLine of Kate's Day](images/7.jpg)
+![Sketches](images/7.JPG)
 
 _Short listing the first to-do's._
-![TimeLine of Kate's Day](images/8.jpg)
+![Other sketches](images/8.JPG)
 
 _Research_
 ![Research](images/1.png)
@@ -32,11 +32,22 @@ _Get an API Key_
 Bower, NPM and dependencies as listed in the files uploaded in this application. I will template off of the Doctor API site I built.
 
 ## Self Study Sources : Follow Ups for the Future
+_1_
 ![Developer Area, Google Maps](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1)
+
+_2_
 ![Styled Map Types](https://developers.google.com/maps/documentation/javascript/styling)
+
+_3_
 ![UI Maps](http://googlemapsmania.blogspot.com/2014/01/styling-google-maps.html)
+
+_4_
 ![Video on UI Styled Maps](https://www.youtube.com/watch?v=KtPVo52JDxs)
+
+_5_
 ![A Lynda course on Google API](https://www.lynda.com/ArcGIS-tutorials/Google-Maps-API/162136/186948-4.html)
+
+_6_
 ![JSON + Instagram](https://code.tutsplus.com/tutorials/introduction-to-the-instagram-api--cms-23608)
 
 ## Initial Specifications (one spec may take me a while to research)
