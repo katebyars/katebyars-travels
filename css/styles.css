@@ -1,0 +1,10 @@
+.jumbotron {
+  font-family: 'Work Sans', sans-serif;
+  background-color: inherit;
+  color: orange;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 28px;
+}
